@@ -1,4 +1,4 @@
-# decoder_ring
+# Decoder Ring
 
 Message decoder that enables the user to encode or decode secret messages using 3 different cipher algorithms.
 
